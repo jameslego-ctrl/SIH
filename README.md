@@ -117,6 +117,7 @@ A decentralized platform to track agricultural produce from farm to consumer, of
 - Pankaj Kumar(Backend Ops) : Javascript(Node.js,web3.js,ether.js) integration of metamask wallet with the smart contracts
 - Aryan(Frontend and Database) : React & web Frameworks & Database operations
 - Nishchay(Hardware and AWS) : IOT sensors and deployment to the cloud
+- sachin (overall expert please guide us)
 - komal (APIs) : satellite Imaging APIs and Generation of QR codes 
 
 ---
