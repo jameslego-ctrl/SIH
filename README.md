@@ -113,8 +113,8 @@ A decentralized platform to track agricultural produce from farm to consumer, of
 ---
 
 # Team Members and Its Role : 
-- James Lego : Ethereum & Smart Contracts, Testing(forge) , Devops, scripts(cast) and Foundry, Local chain Deployment(anvil)
-- Pankaj Kumar : Javascript(Node.js,web3.js,ether.js) integration of metamask wallet with the smart contracts
+- James Lego(Blockchain Ops) : Ethereum & Smart Contracts, Testing(forge) , Devops, scripts(cast) and Foundry, Local chain Deployment(anvil)
+- Pankaj Kumar(Backend Ops) : Javascript(Node.js,web3.js,ether.js) integration of metamask wallet with the smart contracts
 - Aryan(Frontend and Database) : React & web Frameworks & Database operations
 - Nishchay(Hardware and AWS) : IOT sensors and deployment to the cloud
 - komal (APIs) : satellite Imaging APIs and Generation of QR codes 
@@ -123,6 +123,7 @@ A decentralized platform to track agricultural produce from farm to consumer, of
 
 # Note
 @members The roles are interchangable and not finalized
+
 @dev It is recommended to be familiar with all the technology mentioned above
 
 
